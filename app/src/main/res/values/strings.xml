@@ -18,8 +18,8 @@
 <resources>
 
     <!-- App -->
-    <string name="app_name">SlimOTA</string>
-    <string name="app_title">SlimOTA</string>
+    <string name="app_name">TipsyOTA</string>
+    <string name="app_title">TipsyOTA</string>
 
     <!-- Categories -->
     <string name="ota_category">OTA</string>
